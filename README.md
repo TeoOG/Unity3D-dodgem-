@@ -1,4 +1,4 @@
-How to play : unzip and click on SUGROUOMENA.exe 
+How to play : unzip files and click on SUGROUOMENA.exe 
 
 
 
