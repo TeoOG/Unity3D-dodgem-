@@ -1,6 +1,6 @@
 # DODGEM
 
-How to play : unzip files and click on SUGROUOMENA.exe 
+How to play : Download , then unzip "Build.rar" . To play , click on SUGROUOMENA.exe 
 
 
 
