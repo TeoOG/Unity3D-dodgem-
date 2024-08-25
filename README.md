@@ -34,3 +34,5 @@ How to play : Download , then unzip "Build.rar" . To play , click on SUGROUOMENA
 
 **ESC**				          	Exit Game
 
+This repository contains only the build. For the implementation seek the latest reposritory from my page.
+
